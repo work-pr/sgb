@@ -16,6 +16,8 @@
 }
 ._图片_ {
 }
+.placeholder {
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -63,9 +65,17 @@
 ._文本段落 {
   text-align:left;
 }
+.arrow {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .droplist {
   color:#000000;
   text-align:left;
+}
+.table_cell {
 }
 .form_disabled {
 }
@@ -79,5 +89,13 @@
 ._线段 {
 }
 ._连接 {
+}
+.sticky_1 {
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.image {
 }
 textarea, select, input, button { outline: none; }
